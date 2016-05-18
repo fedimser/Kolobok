@@ -1,0 +1,17 @@
+D:\Projects\Games\KolobokGame\obj\x86\Debug\KolobokGame.Form1.resources
+D:\Projects\Games\KolobokGame\obj\x86\Debug\KolobokGame.Properties.Resources.resources
+D:\Projects\Games\KolobokGame\obj\x86\Debug\KolobokGame.csproj.GenerateResource.Cache
+D:\Projects\Games\KolobokGame\bin\Debug\KolobokGame.exe
+D:\Projects\Games\KolobokGame\bin\Debug\KolobokGame.pdb
+D:\Projects\Games\KolobokGame\obj\x86\Debug\KolobokGame.exe
+D:\Projects\Games\KolobokGame\obj\x86\Debug\KolobokGame.pdb
+D:\Projects\Games\KolobokGame\obj\x86\Debug\KolobokGame.LevelEditor.resources
+D:\Projects\Games\KolobokGame\obj\x86\Debug\KolobokGame.csprojResolveAssemblyReference.cache
+D:\Projects\Games\KolobokGame\bin\Debug\Interop.WMPLib.dll
+D:\Projects\Games\KolobokGame\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects\Games\KolobokGame\obj\x86\Debug\Interop.MediaPlayer.dll
+D:\Projects\Games\KolobokGame\obj\x86\Debug\Interop.WMPLib.dll
+D:\Projects\Games\KolobokGame\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Projects\Games\KolobokGame\obj\x86\Debug\KolobokGame.csproj.ResolveComReference.cache
+D:\Projects\Games\KolobokGame\obj\x86\Debug\KolobokGame.Form2.resources
+D:\Projects\Games\KolobokGame\obj\x86\Debug\KolobokGame.AboutBox1.resources
